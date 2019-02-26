@@ -1,8 +1,40 @@
 # Wasted Time
 
+## Rules
+
+`TODO: Add information`
+
+## Addons
+
+`TODO: Expand section`
+
+### Installation
+
+`TODO: Expand section`
+
+### Required
+
+These addons are absolutely required for anyone seeking to join raids and are highly encouraged in general.
+
+#### Deadly Boss Mods (DBM)
+
+`TODO: Expand section`
+
+#### GTFO
+
+`TODO: Expand section`
+
+### Recommended
+
+#### DBM-Interrupts
+
+`TODO: Expand section`
+
 ## Raids
 
 These are guidelines regarding what is expected from members who participate in raids.
+
+### Raid Rules
 
 ### Schedule
 
