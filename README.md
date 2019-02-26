@@ -24,7 +24,7 @@ These are guidelines regarding what is expected from members who participate in 
 
 ### Death Knight
 
-`TODO: Add information and recommendedations`
+`TODO: Add information and recommendations`
 
 #### Blood
 
@@ -40,7 +40,7 @@ These are guidelines regarding what is expected from members who participate in 
 
 ### Demon Hunter
 
-`TODO: Add information and recommendedations`
+`TODO: Add information and recommendations`
 
 #### Havoc
 
@@ -52,7 +52,7 @@ These are guidelines regarding what is expected from members who participate in 
 
 ### Druid
 
-`TODO: Add information and recommendedations`
+`TODO: Add information and recommendations`
 
 #### Balance
 
@@ -72,7 +72,7 @@ These are guidelines regarding what is expected from members who participate in 
 
 ### Hunter
 
-`TODO: Add information and recommendedations`
+`TODO: Add information and recommendations`
 
 #### Beast Mastery
 
@@ -88,7 +88,7 @@ These are guidelines regarding what is expected from members who participate in 
 
 ### Mage
 
-`TODO: Add information and recommendedations`
+`TODO: Add information and recommendations`
 
 #### Arcane
 
@@ -104,7 +104,7 @@ These are guidelines regarding what is expected from members who participate in 
 
 ### Monk
 
-`TODO: Add information and recommendedations`
+`TODO: Add information and recommendations`
 
 #### Brewmaster
 
@@ -120,7 +120,7 @@ These are guidelines regarding what is expected from members who participate in 
 
 ### Paladin
 
-`TODO: Add information and recommendedations`
+`TODO: Add information and recommendations`
 
 #### Holy
 
@@ -136,7 +136,7 @@ These are guidelines regarding what is expected from members who participate in 
 
 ### Priest
 
-`TODO: Add information and recommendedations`
+`TODO: Add information and recommendations`
 
 #### Discipline
 
@@ -152,7 +152,7 @@ These are guidelines regarding what is expected from members who participate in 
 
 ### Rogue
 
-`TODO: Add information and recommendedations`
+`TODO: Add information and recommendations`
 
 #### Assassination
 
@@ -168,7 +168,7 @@ These are guidelines regarding what is expected from members who participate in 
 
 ### Shaman
 
-`TODO: Add information and recommendedations`
+`TODO: Add information and recommendations`
 
 #### Elemental
 
@@ -184,7 +184,7 @@ These are guidelines regarding what is expected from members who participate in 
 
 ### Warlock
 
-`TODO: Add information and recommendedations`
+`TODO: Add information and recommendations`
 
 #### Affliction
 
@@ -200,7 +200,7 @@ These are guidelines regarding what is expected from members who participate in 
 
 ### Warrior
 
-`TODO: Add information and recommendedations`
+`TODO: Add information and recommendations`
 
 #### Arms
 
