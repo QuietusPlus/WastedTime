@@ -12,6 +12,8 @@
 
 `TODO: Expand section`
 
+[Twitch Desktop App](https://app.twitch.tv/download)
+
 ### Required
 
 These addons are absolutely required for anyone seeking to join raids and are highly encouraged in general.
@@ -20,13 +22,59 @@ These addons are absolutely required for anyone seeking to join raids and are hi
 
 `TODO: Expand section`
 
+[Deadly Boss Mods (DBM)](https://www.curseforge.com/wow/addons/deadly-boss-mods)
+
 #### GTFO
 
 `TODO: Expand section`
 
+[GTFO](https://www.curseforge.com/wow/addons/gtfo)
+
 ### Recommended
 
 #### DBM-Interrupts
+
+`TODO: Expand section`
+
+[DBM-Interrupts](https://www.curseforge.com/wow/addons/dbm-interrupts)
+
+#### Auctions
+
+`TODO: Expand section`
+
+Actioneer
+
+Actionator
+
+#### Meters
+
+`TODO: Expand section`
+
+Details!
+
+Etc...
+
+#### FastLoot
+
+`TODO: Expand section`
+
+#### MaxDps
+
+`TODO: Expand section`
+
+#### Postal
+
+`TODO: Expand section`
+
+#### Scrap (Junk Seller)
+
+`TODO: Expand section`
+
+#### WIM (WOW Instant Messenger)
+
+`TODO: Expand section`
+
+#### World Quest Tracker
 
 `TODO: Expand section`
 
