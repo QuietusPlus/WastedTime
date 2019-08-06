@@ -1,5 +1,3 @@
-# Wasted Time
-
 ## Rules
 
 `TODO: Add information`
