@@ -1,3 +1,19 @@
+# Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [General](#general)
+- [Raids](#raids)
+  - [Progression](#progression)
+  - [Casual](#casual)
+  - [Rules](#rules)
+    - [Sign-ups](#sign-ups)
+    - [Consumables](#consumables)
+    - [Encounters](#encounters)
+- [Addons](#addons)
+  - [Installation](#installation)
+  - [Required](#required)
+  - [Recommended](#recommended)
+
 # General
 
 Welcome to the **Wasted Time** information page.
@@ -79,202 +95,10 @@ The Eternal Palace | Title | Video
 
 ## Required
 
-These addons are absolutely required for anyone seeking to join raids and are highly encouraged in general.
-
-### Deadly Boss Mods (DBM)
+The following addons are absolutely required for players who wants to join raids. They are also highly encouraged in general.
 
 `TODO: Expand section`
-
-[Deadly Boss Mods (DBM)](https://www.curseforge.com/wow/addons/deadly-boss-mods)
-
-### GTFO
-
-`TODO: Expand section`
-
-[GTFO](https://www.curseforge.com/wow/addons/gtfo)
 
 ## Recommended
 
-### DBM-Interrupts
-
 `TODO: Expand section`
-
-[DBM-Interrupts](https://www.curseforge.com/wow/addons/dbm-interrupts)
-
-### Auction House
-
-`TODO: Expand section`
-
-Actioneer
-
-Actionator
-
-### Meters
-
-`TODO: Expand section`
-
-Details!
-
-Etc...
-
-### FastLoot
-
-`TODO: Expand section`
-
-### MaxDps
-
-`TODO: Expand section`
-
-### Postal
-
-`TODO: Expand section`
-
-### Scrap (Junk Seller)
-
-`TODO: Expand section`
-
-### WIM (WOW Instant Messenger)
-
-`TODO: Expand section`
-
-### World Quest Tracker
-
-`TODO: Expand section`
-
-# Raids
-
-These are guidelines regarding what is expected from members who participate in raids.
-
-# Classes
-
-`TODO: Information about each class`
-
-```NOTES:
-
-WOWHEAD
-Rotation
-Spell priorities
-Talents
-Consumables
-BloodMallet.com
-icyveins.com
-```
-
-## Death Knight
-
-| Specialization | Description |
-| -------------- | ----------- |
-| Blood          | `TODO`      |
-| Frost          | `TODO`      |
-| Unholy         | `TODO`      |
-
-## Demon Hunter
-
-| Specialization | Description |
-| -------------- | ----------- |
-| Havoc          | `TODO`      |
-| Vengeance      | `TODO`      |
-
-## Druid
-
-| Specialization | Description |
-| -------------- | ----------- |
-| Balance        | `TODO`      |
-| Feral          | `TODO`      |
-| Guardian       | `TODO`      |
-| Restoration    | `TODO`      |
-
-## Hunter
-
-| Specialization | Description |
-| -------------- | ----------- |
-| Beast Mastery  | `TODO`      |
-| Marksmanship   | `TODO`      |
-| Survival       | `TODO`      |
-
-## Mage
-
-| Specialization | Description |
-| -------------- | ----------- |
-| Arcane         | `TODO`      |
-| Fire           | `TODO`      |
-| Frost          | `TODO`      |
-
-## Monk
-
-| Specialization | Description |
-| -------------- | ----------- |
-| Brewmaster     | `TODO`      |
-| Mistweaver     | `TODO`      |
-| Windwalker     | `TODO`      |
-
-## Paladin
-
-| Specialization | Description |
-| -------------- | ----------- |
-| Holy           | `TODO`      |
-| Protection     | `TODO`      |
-| Retribution    | `TODO`      |
-
-## Priest
-
-| Specialization | Description |
-| -------------- | ----------- |
-| Discipline     | `TODO`      |
-| Holy           | `TODO`      |
-| Shadow         | `TODO`      |
-
-## Rogue
-
-| Specialization | Description |
-| -------------- | ----------- |
-| Assassination  | `TODO`      |
-| Outlaw         | `TODO`      |
-| Subtlety       | `TODO`      |
-
-## Shaman
-
-| Specialization | Description |
-| -------------- | ----------- |
-| Elemental      | `TODO`      |
-| Enhancement    | `TODO`      |
-| Restoration    | `TODO`      |
-
-## Warlock
-
-| Specialization | Description |
-| -------------- | ----------- |
-| Affliction     | `TODO`      |
-| Demonology     | `TODO`      |
-| Destruction    | `TODO`      |
-
-## Warrior
-
-| Specialization | Description |
-| -------------- | ----------- |
-| Arms           | `TODO`      |
-| Fury           | `TODO`      |
-| Protection     | `TODO`      |
-
-# Notes
-
-```
-
-Simulation craft
-/simc
-copy text
-go to raidbots.com
-stat weights
-paste copied
-wait for queue
-
-Copy pawn string
-go to game > esc > interface > addons > pawn > scale > Manual > import > paste > normalize values
-Now when you hover an item it will show you more correct suggestions.
-
-Tanks not useful. Just for stats.
-Healer not useful?
-
-https://www.youtube.com/watch?v=lNUowHsyReQ&list=PLu3dsh6Bc2HUg-5xg7xeGND6KQcyTjudy
-
-```
